@@ -37,7 +37,7 @@ async function run() {
     console.log('The file has been saved!');
 
     // Now you can safely print this after all tasks are done
-    console.log("letsgo");
+    console.log("letsgoooo");
 
   } catch (error) {
     console.error('An error occurred:', error);
