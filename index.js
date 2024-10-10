@@ -38,6 +38,7 @@ async function run() {
 
     // Now you can safely print this after all tasks are done
     console.log("letsgoooo");
+    console.log("yala bena")
 
   } catch (error) {
     console.error('An error occurred:', error);
