@@ -39,7 +39,7 @@ async function run() {
     // Now you can safely print this after all tasks are done
 
     //console.log("letsgo");
-    console.log("boom");
+    console.log("boom222");
 
 
   } catch (error) {
